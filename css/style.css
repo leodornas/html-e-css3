@@ -1,0 +1,14 @@
+body{
+	background: gray;
+	padding: 0px;
+	width: 800px;
+	border: solid 1px;
+}
+
+.padrao{
+ margin-bottom: 20px;
+}
+
+.outro{
+ margin-bottom: 200px;
+}
